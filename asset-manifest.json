@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kaplanparcelswebsite/static/css/main.0e05c655.chunk.css",
-    "main.js": "/kaplanparcelswebsite/static/js/main.2814d5ce.chunk.js",
-    "main.js.map": "/kaplanparcelswebsite/static/js/main.2814d5ce.chunk.js.map",
+    "main.js": "/kaplanparcelswebsite/static/js/main.02aeec71.chunk.js",
+    "main.js.map": "/kaplanparcelswebsite/static/js/main.02aeec71.chunk.js.map",
     "runtime-main.js": "/kaplanparcelswebsite/static/js/runtime-main.5ece8d15.js",
     "runtime-main.js.map": "/kaplanparcelswebsite/static/js/runtime-main.5ece8d15.js.map",
     "static/js/2.1318af3d.chunk.js": "/kaplanparcelswebsite/static/js/2.1318af3d.chunk.js",
     "static/js/2.1318af3d.chunk.js.map": "/kaplanparcelswebsite/static/js/2.1318af3d.chunk.js.map",
     "index.html": "/kaplanparcelswebsite/index.html",
-    "precache-manifest.533a892467c003930140b181ad375623.js": "/kaplanparcelswebsite/precache-manifest.533a892467c003930140b181ad375623.js",
+    "precache-manifest.7733ab609f19556fb82b8321598a62ef.js": "/kaplanparcelswebsite/precache-manifest.7733ab609f19556fb82b8321598a62ef.js",
     "service-worker.js": "/kaplanparcelswebsite/service-worker.js",
     "static/css/main.0e05c655.chunk.css.map": "/kaplanparcelswebsite/static/css/main.0e05c655.chunk.css.map",
     "static/js/2.1318af3d.chunk.js.LICENSE": "/kaplanparcelswebsite/static/js/2.1318af3d.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5ece8d15.js",
     "static/js/2.1318af3d.chunk.js",
     "static/css/main.0e05c655.chunk.css",
-    "static/js/main.2814d5ce.chunk.js"
+    "static/js/main.02aeec71.chunk.js"
   ]
 }
