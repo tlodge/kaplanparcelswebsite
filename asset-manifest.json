@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kaplanparcelwebsite/static/css/main.0e05c655.chunk.css",
+    "main.js": "/kaplanparcelwebsite/static/js/main.ec803929.chunk.js",
+    "main.js.map": "/kaplanparcelwebsite/static/js/main.ec803929.chunk.js.map",
+    "runtime-main.js": "/kaplanparcelwebsite/static/js/runtime-main.5004bb59.js",
+    "runtime-main.js.map": "/kaplanparcelwebsite/static/js/runtime-main.5004bb59.js.map",
+    "static/js/2.1318af3d.chunk.js": "/kaplanparcelwebsite/static/js/2.1318af3d.chunk.js",
+    "static/js/2.1318af3d.chunk.js.map": "/kaplanparcelwebsite/static/js/2.1318af3d.chunk.js.map",
+    "index.html": "/kaplanparcelwebsite/index.html",
+    "precache-manifest.7ee22b87e6834637fef278ebaa600ce5.js": "/kaplanparcelwebsite/precache-manifest.7ee22b87e6834637fef278ebaa600ce5.js",
+    "service-worker.js": "/kaplanparcelwebsite/service-worker.js",
+    "static/css/main.0e05c655.chunk.css.map": "/kaplanparcelwebsite/static/css/main.0e05c655.chunk.css.map",
+    "static/js/2.1318af3d.chunk.js.LICENSE": "/kaplanparcelwebsite/static/js/2.1318af3d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5004bb59.js",
+    "static/js/2.1318af3d.chunk.js",
+    "static/css/main.0e05c655.chunk.css",
+    "static/js/main.ec803929.chunk.js"
+  ]
+}
