@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kaplanparcelswebsite/precache-manifest.233ef8463720540913c75f74b59262bd.js"
+  "/kaplanparcelswebsite/precache-manifest.916b4b140c0c49a35a215f6973f46cf7.js"
 );
 
 self.addEventListener('message', (event) => {
